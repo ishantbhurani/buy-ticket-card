@@ -6,4 +6,8 @@
 
 ## Credits
 
-**design:** [UIDesignDaily](https://www.uidesigndaily.com/posts/studio-buy-ticket-card-day-1419)
+**design:**
+
+[UIDesignDaily](https://www.uidesigndaily.com/posts/studio-buy-ticket-card-day-1419)
+<br/>
+[Ildiko Gaspar](https://twitter.com/Ildiesign)
